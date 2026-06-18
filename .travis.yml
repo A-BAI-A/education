@@ -2,4 +2,4 @@ language: python
 python:
   - "3.10"
 script:
-  - python -c "print('代码没有语法错误！编译成功！')"
+  - python -c "print('这行代码故意少个括号'"
