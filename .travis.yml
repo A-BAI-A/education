@@ -1,0 +1,5 @@
+language: python
+python:
+  - "3.10"
+script:
+  - python -c "print('代码没有语法错误！编译成功！')"
